@@ -1,0 +1,9 @@
+C:\Users\strum\Desktop\C#\Fiszki\Fiszki\bin\Debug\Data.txt
+C:\Users\strum\Desktop\C#\Fiszki\Fiszki\bin\Debug\Fiszki.exe.config
+C:\Users\strum\Desktop\C#\Fiszki\Fiszki\bin\Debug\Fiszki.exe
+C:\Users\strum\Desktop\C#\Fiszki\Fiszki\bin\Debug\Fiszki.pdb
+C:\Users\strum\Desktop\C#\Fiszki\Fiszki\obj\Debug\Fiszki.csproj.AssemblyReference.cache
+C:\Users\strum\Desktop\C#\Fiszki\Fiszki\obj\Debug\Fiszki.csproj.SuggestedBindingRedirects.cache
+C:\Users\strum\Desktop\C#\Fiszki\Fiszki\obj\Debug\Fiszki.csproj.CoreCompileInputs.cache
+C:\Users\strum\Desktop\C#\Fiszki\Fiszki\obj\Debug\Fiszki.exe
+C:\Users\strum\Desktop\C#\Fiszki\Fiszki\obj\Debug\Fiszki.pdb
